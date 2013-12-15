@@ -1,6 +1,6 @@
-(defproject net.colourcoding/ulisse "0.1.1"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+(defproject net.colourcoding/ulisse "0.2.3"
+  :description "Syntax highlighting for codox-md"
+  :url "http://github.com/JulianBirch/ulisse"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.5.1"]
