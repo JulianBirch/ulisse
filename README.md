@@ -7,7 +7,7 @@ A Codox writer that does syntax highlighting.  Take a look at [an example of the
 Leiningen
 
 ```clj
-:profiles {:dev {:dependencies [ [net.colourcoding/ulisse "0.2.3" :scope "doc"]]}}
+:profiles {:dev {:dependencies [ [net.colourcoding/ulisse "0.2.3"]]}}
 :codox {:writer ulisse.writer/write-docs}
 ```
 
